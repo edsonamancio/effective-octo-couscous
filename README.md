@@ -1,2 +1,2 @@
 # effective-octo-couscous
-I am new to Java development and I love it...
+I am new to Java development.
